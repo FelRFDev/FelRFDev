@@ -12,23 +12,20 @@
 <div>
   <a href="https://github.com/felrf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felrf&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felrf&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felrf&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
   
-  
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-</div>
-  
-  ##
- 
+- Programming Language 💻
+ <div>
+   <img align="center" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+ </div>
+
+
 <div> 
  <a href="https://www.facebook.com/felipe.rodriguesfonseca.58" target="_blank"><img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white target="_blank"></a>
  <a href = "mailto:comunidadehawks@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   
-  ![Snake animation](https://github.com/FelRF/FelRF/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/felrf/felrf/blob/output/github-contribution-grid-snake.svg)
  
 </div>

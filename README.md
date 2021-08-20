@@ -4,7 +4,7 @@
 - 🔭 Atualmente estou trabalhando em uma área fora da programação.
 - 🌱 Estudante de Python nas horas livres!
 - 👯 Pretendo colaborar com a comunidade e aprender posteriormente!
-- 🤔 Atualmente, procuro ajuda com qualquer assunto que envolva programação.
+- 🤔 Qualquer tipo de ajuda ou informação será bem vinda.
 - 💬 Tem algo a perguntar? Fique a vontade!
 - 📫 Melhores formas de entrar em contato: Meu perfil no facebook e e-mail.
 - Programming Language 💻: 

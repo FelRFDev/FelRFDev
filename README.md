@@ -1,16 +1,15 @@
 ### Olá 👋 Me chamo Felipe Rodrigues Fonseca, bem vindo ao meu Perfil!
 
-
 - 🔭 Atualmente estou trabalhando em uma área fora da programação.
 - 🌱 Estudante de Python nas horas livres!
 - 👯 Pretendo colaborar com a comunidade e aprender posteriormente!
 - 🤔 Qualquer tipo de ajuda ou informação será bem vinda.
 - 💬 Tem algo a perguntar? Fique a vontade!
 - 📫 Melhores formas de entrar em contato: Meu perfil no facebook e e-mail.
-- Programming Language 💻: 
+# Programming Language 💻: 
 <div>
-   <img align="center" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
- </div>
+   <img align="center" height="50" width="100" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e4768c6k43xff07hgtrzj60h203ah78rchx138ba2j5&rid=giphy.gif&ct=g">
+</div>
 
 
 

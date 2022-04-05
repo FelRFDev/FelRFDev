@@ -6,10 +6,11 @@
 - 🤔 Qualquer tipo de ajuda ou informação será bem vinda.
 - 💬 Tem algo a perguntar? Fique a vontade!
 - 📫 Melhores formas de entrar em contato: Meu perfil no facebook e e-mail.
-# Programming Language 💻: 
+# Skills 💻: 
 <div>
-   <img align="center" height="50" width="100" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e4768c6k43xff07hgtrzj60h203ah78rchx138ba2j5&rid=giphy.gif&ct=g">
+   <img align="center" height="50" width="100" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e4768c6k43xff07hgtrzj60h203ah78rchx138ba2j5&rid=giphy.gif&ct=g">   <img align="center" height="40" width="80" src="https://img.shields.io/badge/Git-C71D23?logo=git&logoColor=white&style=flat">
 </div>
+
 
 
 

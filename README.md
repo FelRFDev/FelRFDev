@@ -41,3 +41,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FelRF&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5acbe9&height=70&section=footer"/>

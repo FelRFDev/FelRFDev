@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5acbe9&height=70&section=header"/>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=800&color=7256F7&center=true&width=435&lines=Hello+World!;I'm+Felipe%2C+a+backend+developer.;Welcome+to+my+profile!" alt="Typing SVG" /></a>
+
 ### Olá 👋 Me chamo Felipe Rodrigues Fonseca, bem vindo ao meu Perfil!
 
 - 🔭 Atualmente estou trabalhando em uma área fora da programação.

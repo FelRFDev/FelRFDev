@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5acbe9&height=70&section=header"/>
+
 ### Olá 👋 Me chamo Felipe Rodrigues Fonseca, bem vindo ao meu Perfil!
 
 - 🔭 Atualmente estou trabalhando em uma área fora da programação.

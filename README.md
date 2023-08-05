@@ -22,8 +22,8 @@
 
 <div>
   <a href="https://github.com/FelRFDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felrf&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felrf&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelRFDev&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelRFDev&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
    
 ## 💬 Meus Contatos
@@ -40,9 +40,9 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=FelRF&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=FelRFDev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FelRF&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=FelRFDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5acbe9&height=70&section=footer"/>

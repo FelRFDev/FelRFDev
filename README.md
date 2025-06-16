@@ -5,9 +5,10 @@
 
 # 👋 Olá, eu sou Felipe Rodrigues Fonseca!
 
-Sou um desenvolvedor em aprendizado, focado principalmente em **Python, Django** e **desenvolvimento back-end**. 
+Desenvolvedor backend focado em **Python**, apaixonado por construir soluções eficientes e escaláveis, com experiência em desenvolvimento de APIs REST e integração de sistemas. 
 Estou sempre buscando novos desafios e oportunidades de crescimento. 
-No momento, estou me aprofundando em **Python** e cursando **Ciência da Computação** na **University of People**. 
+No momento, estou me aprofundando em novas tecnologias como **Docker** e cursando **Ciência da Computação** na **University of People**.
+
 
 
 ## 🚀 Objetivos e Oportunidades

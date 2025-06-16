@@ -3,16 +3,24 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=800&color=7256F7&center=true&width=435&lines=Hello+World!;I'm+Felipe%2C+a+backend+developer.;Welcome+to+my+profile!" alt="Typing SVG" /></a>
 
-### Olá 👋 Me chamo Felipe Rodrigues Fonseca, bem vindo ao meu Perfil!
+# 👋 Olá, eu sou Felipe Rodrigues Fonseca!
 
-- 🔭 Atualmente estou trabalhando em uma área fora da programação.
-- 🌱 Estudante de Python nas horas livres!
-- 👯 Pretendo colaborar com a comunidade e aprender posteriormente!
-- 🤔 Qualquer tipo de ajuda ou informação será bem vinda.
-- 💬 Tem algo a perguntar? Fique a vontade!
-- 📫 Melhores formas de entrar em contato: Meu perfil no facebook e e-mail.
-- 
-# Skills 💻: 
+Sou um desenvolvedor em aprendizado, focado principalmente em **Python, Django** e **desenvolvimento back-end**. 
+Estou sempre buscando novos desafios e oportunidades de crescimento. 
+No momento, estou me aprofundando em **Python** e cursando **Ciência da Computação** na **University of People**. 
+
+
+## 🚀 Objetivos e Oportunidades
+
+- 🎯 Estudando **Python**, com ênfase em **desenvolvimento de APIs** e **Sistemas Web FullStack**.
+- 🌱 Aprendendo sobre **desenvolvimento back-end**, **Django**, **Django Rest Framework**, **PostgreSql** e **Docker**.
+- 🤝 Sempre aberto a colaborar com a comunidade, especialmente em projetos open-source.
+- 📫 Se você quiser conversar sobre tecnologia, trocar ideias ou colaborar em algum projeto, estou à disposição!
+
+## 🛠️ **Tecnologias que eu uso**
+
+### ⚙️ **Ferramentas e Frameworks**
+
 <div>
    <img align="center" height="50" width="100" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e4768c6k43xff07hgtrzj60h203ah78rchx138ba2j5&rid=giphy.gif&ct=g">
    <img align="center" height="50" width="100" src="https://github.com/FelRFDev/FelRFDev/assets/89205473/41d51aa4-411b-4f98-a770-9ee0fcedc7a2">
@@ -22,7 +30,31 @@
    <img align="center" height="50" width="100" src="https://github.com/user-attachments/assets/4d087534-c6ad-4ce2-934c-e06cf4e7252d">
 </div>
 
+## 📂 Projetos em Destaque
 
+Aqui estão alguns projetos que refletem meu aprendizado e aplicação das tecnologias que estou estudando:
+
+### 📝 [**Automação Python / Selenium (Projeto Privado)**]()
+Um projeto que fiz para automatizar o agendamento e reserva de salas de aula na plataforma web
+do local onde trabalho. Com isto, o tempo gasto para a conclusão desta atvidade reduziu considerávelmente
+além de contribuir efetivamente com a produtividade. Desa forma, foi possível terminar as reservas em tempo
+ábil além de sobrar mais tempo para focar em outras atividades. 
+
+### 💡 [**Geo Nexus - Plataforma Web com Python / Django, PostgreSql, Django Rest Framework (Projeto Privado)**]()
+O GeoNexus é uma plataforma web composta por outras duas plataformas. Uma delas, a GeoPampa, foi feita utilizando Python, Django e Folium.
+Seu objeto é auxiliar os alunos ingressantes a localizar prédios, instalações e paradas de ônibus com o auxilio de um mapa
+interativo. Também é possível traçar rotas, calcular a distância entre dois locais além de outras funcionalidades. A outra, GeoNature,
+é uma plataforma web integrada com uma API que fiz utilizando Django Rest Framework. Tem como funcionalidade exibir informações relacionadas
+aos animais silvestres encontrados no campus e também ser utilizada como
+instrumento de estudo e incentivo a preservação do meio ambiente. Com isso, o projeto promove a união entre a tecnologia, o meio ambiente e os dados
+apresentando uma solução robusta e escalável para um cenário real do meu ambiente de trabalho. Este projeto foi hospedado na AWS utilizando um servidor EC2,
+com ip fixo e domínio adquirido na plataforma, e com certificado de segurança SSL/TLS.
+
+### 🔄 [**Api feita com Django Rest Framework e PostgreSql (Projeto pessoal)**]()
+Api feita para persistência e gerenciamento dos dados e informações relacionadas aos animais silvestres
+que foram encontrados e catalogados no local onde trabalho. Com isso, é possível lidar com todas as informações de forma
+eficiente e segura através das funcionalidades fornecidas pelo Django Rest Framework e PostgreSql resultando em uma integração
+eficaz com o meu outro projeto GeoNature!
 
 
 # 📊 GitHub Account Info:
@@ -33,12 +65,21 @@
   <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelRFDev&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
    
-## 💬 Meus Contatos
-   
-<div> 
- <a href="https://www.facebook.com/felipe.rodriguesfonseca.58" target="_blank"><img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white target="_blank"></a>
- <a href = "mailto:comunidadehawks@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+## 📫 **Onde me encontrar**
 
+Você pode entrar em contato comigo pelas seguintes plataformas:
+
+- [Facebook](https://www.facebook.com/felipe.rodriguesfonseca.58)
+- [Email](mailto:comunidadehawks@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/felrfdev/)
+
+Sinta-se à vontade para me mandar uma mensagem ou fazer perguntas. Estou sempre aberto a trocar experiências!
+
+---
+
+  
+<div> 
+ 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FelRFDev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   ![Snake animation](https://github.com/FelRFDev/FelRFDev/blob/output/github-contribution-grid-snake.svg)

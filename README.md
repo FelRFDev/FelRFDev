@@ -5,7 +5,8 @@
 
 # 👋 Olá, eu sou Felipe Rodrigues Fonseca!
 
-Desenvolvedor backend focado em **Python**, apaixonado por construir soluções eficientes e escaláveis, com experiência em desenvolvimento de APIs REST e integração de sistemas. 
+"Sou desenvolvedor backend especializado em **Python**, 
+com experiência no desenvolvimento de APIs REST escaláveis e integração de sistemas. 
 Estou sempre buscando novos desafios e oportunidades de crescimento. 
 No momento, estou me aprofundando em novas tecnologias como **Docker** e cursando **Ciência da Computação** na **University of People**.
 
@@ -13,14 +14,25 @@ No momento, estou me aprofundando em novas tecnologias como **Docker** e cursand
 
 ## 🚀 Objetivos e Oportunidades
 
-- 🎯 Estudando **Python**, com ênfase em **desenvolvimento de APIs** e **Sistemas Web FullStack**.
-- 🌱 Aprendendo sobre **desenvolvimento back-end**, **Django**, **Django Rest Framework**, **PostgreSql** e **Docker**.
+- 🎯 Aprofundando meus conhecimentos em **desenvolvimento backend com Python**, com foco em **APIs REST**, **PostgreSQL**,
+- **Django**, **Django Rest Framework**, e integração com **Docker**.
 - 🤝 Sempre aberto a colaborar com a comunidade, especialmente em projetos open-source.
 - 📫 Se você quiser conversar sobre tecnologia, trocar ideias ou colaborar em algum projeto, estou à disposição!
 
 ## 🛠️ **Tecnologias que eu uso**
 
-### ⚙️ **Ferramentas e Frameworks**
+### Linguagens
+- Python
+
+### Frameworks e Bibliotecas
+- Django, Django Rest Framework
+
+### Banco de Dados
+- PostgreSQL
+
+### DevOps e Outras Ferramentas
+- Docker, AWS EC2, Git, GitHub
+
 
 <div>
    <img align="center" height="50" width="100" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e4768c6k43xff07hgtrzj60h203ah78rchx138ba2j5&rid=giphy.gif&ct=g">
@@ -37,9 +49,10 @@ Aqui estão alguns projetos que refletem meu aprendizado e aplicação das tecno
 
 ### 📝 [**Automação Python / Selenium (Projeto Privado)**]()
 Um projeto que fiz para automatizar o agendamento e reserva de salas de aula na plataforma web
-do local onde trabalho. Com isto, o tempo gasto para a conclusão desta atvidade reduziu considerávelmente
-além de contribuir efetivamente com a produtividade. Desa forma, foi possível terminar as reservas em tempo
-ábil além de sobrar mais tempo para focar em outras atividades. 
+do local onde trabalho. A automação reduziu drasticamente o tempo necessário para o agendamento de salas, 
+liberando recursos para tarefas mais estratégicas. Sua estrutura consiste em persistir os dados cadastrais
+em uma planilha do google adaptada, e posteriormente via API, utilizar estes dados em conjunto com o selenium
+para abrir o portal, fazer o login do usuário, preencher a planilha de reserva e realizar o agendamento.
 
 ### 💡 [**Geo Nexus - Plataforma Web com Python / Django, PostgreSql, Django Rest Framework (Projeto Privado)**]()
 O GeoNexus é uma plataforma web composta por outras duas plataformas. Uma delas, a GeoPampa, foi feita utilizando Python, Django e Folium.

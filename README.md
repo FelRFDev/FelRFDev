@@ -14,8 +14,7 @@ No momento, estou me aprofundando em novas tecnologias como **Docker** e cursand
 
 ## 🚀 Objetivos e Oportunidades
 
-- 🎯 Aprofundando meus conhecimentos em **desenvolvimento backend com Python**, com foco em **APIs REST**, **PostgreSQL**,
-- **Django**, **Django Rest Framework**, e integração com **Docker**.
+- 🎯 Aprofundando meus conhecimentos em **desenvolvimento backend com Python**, com foco em **APIs REST**, **PostgreSQL**, **Django**, **Django Rest Framework**, e integração com **Docker**.
 - 🤝 Sempre aberto a colaborar com a comunidade, especialmente em projetos open-source.
 - 📫 Se você quiser conversar sobre tecnologia, trocar ideias ou colaborar em algum projeto, estou à disposição!
 

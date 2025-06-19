@@ -79,7 +79,8 @@ You can contact me on the following platforms:
 - [Facebook](https://www.facebook.com/felipe.rodriguesfonseca.58)
 - [Email](mailto:comunidadehawks@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/felrfdev/)
-- 
+- [Instagram](https://www.instagram.com/felrfdev)
+  
 Feel free to send me a message or ask questions. I am always open to exchanging experiences!
 
 ## ℹ️ For more information, visit:

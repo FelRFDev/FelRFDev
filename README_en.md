@@ -4,7 +4,7 @@
 <!-- Seletor de idioma -->
 <p align="center">
   🌐 Escolha o idioma / Choose your language: <br><br>
-  <a href="./README.mdpt-br-">🇧🇷 Português</a> • <a href="./README_en.md-english">🇬🇧 English</a>
+  <a href="./README.md">🇧🇷 Português</a> • <a href="./README_en.md">🇬🇧 English</a>
 </p>
 
 ---

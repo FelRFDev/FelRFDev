@@ -4,7 +4,7 @@
 <!-- Seletor de idioma -->
 <p align="center">
   🌐 Escolha o idioma / Choose your language: <br><br>
-  <a href="#pt-br-">🇧🇷 Português</a> • <a href="#-english">🇬🇧 English</a>
+  <a href="./README.md-">🇧🇷 Português</a> • <a href="./README_en.md">🇬🇧 English</a>
 </p>
 
 ---
@@ -30,6 +30,15 @@ No momento, estou me aprofundando em novas tecnologias como **Docker** e cursand
 - 📫 Se você quiser conversar sobre tecnologia, trocar ideias ou colaborar em algum projeto, estou à disposição!
 
 ## 🛠️ **Tecnologias que eu uso**
+<div>
+   <img align="center" height="50" width="100" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e4768c6k43xff07hgtrzj60h203ah78rchx138ba2j5&rid=giphy.gif&ct=g">
+   <img align="center" height="50" width="100" src="https://github.com/FelRFDev/FelRFDev/assets/89205473/41d51aa4-411b-4f98-a770-9ee0fcedc7a2">
+   <img align="center" height="50" width="100" src="https://github.com/user-attachments/assets/2f49f94a-a12b-48e1-8b5b-5a33c1f5d3a5">
+   <img align="center" height="100" width="100" src="https://github.com/user-attachments/assets/207df064-cd3a-436c-997e-115b22d394b0">
+   <img align="center" height="50" width="100" src="https://github.com/user-attachments/assets/ce9aa8a0-d195-49a3-bbaf-feee6d49aa48">
+   <img align="center" height="50" width="100" src="https://github.com/user-attachments/assets/4d087534-c6ad-4ce2-934c-e06cf4e7252d">
+</div>
+
 
 ### Linguagens
 - Python
@@ -43,15 +52,6 @@ No momento, estou me aprofundando em novas tecnologias como **Docker** e cursand
 ### DevOps e Outras Ferramentas
 - Docker, AWS EC2, Git, GitHub
 
-
-<div>
-   <img align="center" height="50" width="100" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e4768c6k43xff07hgtrzj60h203ah78rchx138ba2j5&rid=giphy.gif&ct=g">
-   <img align="center" height="50" width="100" src="https://github.com/FelRFDev/FelRFDev/assets/89205473/41d51aa4-411b-4f98-a770-9ee0fcedc7a2">
-   <img align="center" height="50" width="100" src="https://github.com/user-attachments/assets/2f49f94a-a12b-48e1-8b5b-5a33c1f5d3a5">
-   <img align="center" height="100" width="100" src="https://github.com/user-attachments/assets/207df064-cd3a-436c-997e-115b22d394b0">
-   <img align="center" height="50" width="100" src="https://github.com/user-attachments/assets/ce9aa8a0-d195-49a3-bbaf-feee6d49aa48">
-   <img align="center" height="50" width="100" src="https://github.com/user-attachments/assets/4d087534-c6ad-4ce2-934c-e06cf4e7252d">
-</div>
 
 ## 📂 Projetos em Destaque
 

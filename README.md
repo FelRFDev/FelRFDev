@@ -10,11 +10,9 @@ com experiência no desenvolvimento de APIs REST escaláveis e integração de s
 Estou sempre buscando novos desafios e oportunidades de crescimento. 
 No momento, estou me aprofundando em novas tecnologias como **Docker** e cursando **Ciência da Computação** na **University of People**.
 
-
-
 ## 🚀 Objetivos e Oportunidades
 
-- 🎯 Aprofundando meus conhecimentos em **desenvolvimento backend com Python**, com foco em **APIs REST**, **PostgreSQL**, **Django**, **Django Rest Framework**, e integração com **Docker**.
+- 🎯 Aprofundando meus conhecimentos em **desenvolvimento backend com Python**, focado em **APIs REST**, **PostgreSQL**, **Django**, **Django Rest Framework**, e integração com **Docker**.
 - 🤝 Sempre aberto a colaborar com a comunidade, especialmente em projetos open-source.
 - 📫 Se você quiser conversar sobre tecnologia, trocar ideias ou colaborar em algum projeto, estou à disposição!
 
@@ -87,6 +85,9 @@ Você pode entrar em contato comigo pelas seguintes plataformas:
 - [Linkedin](https://www.linkedin.com/in/felrfdev/)
 
 Sinta-se à vontade para me mandar uma mensagem ou fazer perguntas. Estou sempre aberto a trocar experiências!
+
+## ℹ️ Para maiores informações, acesse: 
+[Meu Portfolio](https://felrfdev.netlify.app/)
 
 ---
 

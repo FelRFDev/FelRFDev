@@ -96,6 +96,7 @@ Você pode entrar em contato comigo pelas seguintes plataformas:
 - [Facebook](https://www.facebook.com/felipe.rodriguesfonseca.58)
 - [Email](mailto:comunidadehawks@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/felrfdev/)
+- [Instagram](https://www.instagram.com/felrfdev)
 
 Sinta-se à vontade para me mandar uma mensagem ou fazer perguntas. Estou sempre aberto a trocar experiências!
 

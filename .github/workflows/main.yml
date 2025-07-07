@@ -1,5 +1,5 @@
 # NOME DO WORKFLOW
-name: Generate Snake Animation
+name: TESTE FINAL - Gerador de Cobra
 
 # GATILHOS: QUANDO A ACTION DEVE RODAR
 on:

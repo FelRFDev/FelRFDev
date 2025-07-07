@@ -21,19 +21,11 @@ jobs:
       contents: write
     # PASSOS DA TAREFA
     steps:
-      # PASSO 1: BAIXA O REPOSITÓRIO (JÁ ESTÁ FUNCIONANDO!)
+      # Passo 1: Baixa o repositório para a Action ter acesso aos arquivos.
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # PASSO 2A: CONFIGURA O NOME DE USUÁRIO DO AUTOR DO COMMIT
-      - name: Set Git User Name
-        run: git config user.name "github-actions[bot]"
-      
-      # PASSO 2B: CONFIGURA O EMAIL DO AUTOR DO COMMIT
-      - name: Set Git User Email
-        run: git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-      # PASSO 3: GERA A ANIMAÇÃO
+      # Passo 2: Usa a ação 'snk' APENAS para criar os arquivos da animação.
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
@@ -41,3 +33,12 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Passo 3: Usa uma ação especialista para fazer o commit e push dos arquivos.
+      - name: Commit & Push new animation
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          # Mensagem do commit
+          commit_message: "chore: update snake animation files"
+          # Padrão dos arquivos que devem ser commitados (todos os .svg dentro da pasta dist)
+          file_pattern: dist/*.svg

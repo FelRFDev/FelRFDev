@@ -21,17 +21,19 @@ jobs:
       contents: write
     # PASSOS DA TAREFA
     steps:
-      # PASSO 1: BAIXAR O CÓDIGO DO SEU REPOSITÓRIO. ESTE É O PASSO QUE ESTÁ FALTANDO NA SUA EXECUÇÃO.
+      # PASSO 1: BAIXA O REPOSITÓRIO (JÁ ESTÁ FUNCIONANDO!)
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # PASSO 2: CONFIGURAR O USUÁRIO DO GIT PARA FAZER O COMMIT
-      - name: Configure Git
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      # PASSO 2A: CONFIGURA O NOME DE USUÁRIO DO AUTOR DO COMMIT
+      - name: Set Git User Name
+        run: git config user.name "github-actions[bot]"
+      
+      # PASSO 2B: CONFIGURA O EMAIL DO AUTOR DO COMMIT
+      - name: Set Git User Email
+        run: git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      # PASSO 3: GERAR A ANIMAÇÃO DA COBRA
+      # PASSO 3: GERA A ANIMAÇÃO
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:

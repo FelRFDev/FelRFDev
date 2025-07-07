@@ -89,12 +89,10 @@ Feel free to send me a message or ask questions. I am always open to exchanging 
 ---
 
   
-<div> 
- 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FelRFDev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-  ![Snake animation](https://github.com/FelRFDev/FelRFDev/blob/output/github-contribution-grid-snake.svg)
- 
+<div>
+  <a href="https://github.com/FelRFDev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelRFDev&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelRFDev&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 
 

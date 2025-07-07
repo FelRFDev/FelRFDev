@@ -10,9 +10,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      # Adiciona permissão para a Action escrever no repositório
+      # Permissão para a Action escrever/commitar no repositório
       contents: write
     steps:
+      # PASSO CRÍTICO QUE FALTAVA: Baixa o seu repositório para o ambiente da Action
+      - uses: actions/checkout@v4
+
+      # (Opcional, mas boa prática) Configura o usuário do git para o commit
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      # Passo que gera a animação
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}

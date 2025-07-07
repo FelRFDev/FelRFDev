@@ -1,29 +1,39 @@
+# NOME DO WORKFLOW
 name: Generate Snake Animation
 
+# GATILHOS: QUANDO A ACTION DEVE RODAR
 on:
+  # A CADA 12 HORAS, AUTOMATICAMENTE
   schedule:
-    # Roda a cada 12 horas
     - cron: "0 */12 * * *"
+  # E TAMBÉM PERMITE RODAR MANUALMENTE (ESSENCIAL PARA TESTAR)
   workflow_dispatch:
 
+# TAREFAS QUE A ACTION VAI EXECUTAR
 jobs:
+  # NOME DA TAREFA
   build:
+    # TIPO DE MÁQUINA VIRTUAL
     runs-on: ubuntu-latest
+    # PERMISSÕES NECESSÁRIAS
     permissions:
-      # Permissão para a Action escrever/commitar no repositório
+      # PERMISSÃO PARA ESCREVER ARQUIVOS DE VOLTA NO REPOSITÓRIO
       contents: write
+    # PASSOS DA TAREFA
     steps:
-      # PASSO CRÍTICO QUE FALTAVA: Baixa o seu repositório para o ambiente da Action
-      - uses: actions/checkout@v4
+      # PASSO 1: BAIXAR O CÓDIGO DO SEU REPOSITÓRIO. ESTE É O PASSO QUE ESTÁ FALTANDO NA SUA EXECUÇÃO.
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      # (Opcional, mas boa prática) Configura o usuário do git para o commit
-      - name: Configure git
+      # PASSO 2: CONFIGURAR O USUÁRIO DO GIT PARA FAZER O COMMIT
+      - name: Configure Git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      # Passo que gera a animação
-      - uses: Platane/snk@v3
+      # PASSO 3: GERAR A ANIMAÇÃO DA COBRA
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
